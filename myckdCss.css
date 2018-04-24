@@ -1,0 +1,77 @@
+/* myckdCss.css                        */
+/*                               */
+
+
+
+body {
+ background-color: limegreen;
+    background-image: url("liz0003.jpg");
+    margin: 10px;
+    border: 20px;
+ color: maroon;
+ 
+}
+
+
+h1 {
+   	background-color: greenyellow;
+ 	color: black;
+ 	text-align: center;text-decoration-line: underline
+	height: 200px;
+    border: 3px groove #FFFF33;
+ 	font-size: 5em;    
+ 	
+}
+
+
+h2 {
+    text-align: center;
+}
+
+
+h4 {
+    text-align: center;   
+}
+
+
+
+p {
+ background-color: green;
+ margin: 20px;
+ border: 20px;    
+ color: whitesmoke;
+ text-align: center;
+ border: 3px groove white;
+}
+
+img {
+    height: 200px;
+    width: 200px;  
+    margin: 40px;
+
+
+
+
+
+
+    
+}
+label {
+    display:block;
+    margin-bottom:10px;
+}
+
+input {
+    padding:10px;
+    width: 50%;
+    margin-bottom: 1em;
+}
+button {
+    margin: 2em 0;
+    padding: 1em 3em;
+    display:block;
+    background-color:red;
+}
+
+
+
